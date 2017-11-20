@@ -12,4 +12,4 @@ var middleware = {
 	}
 };
 
-modules.exports = middleware;
+module.exports = middleware;
